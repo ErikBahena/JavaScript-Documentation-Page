@@ -16,7 +16,7 @@ This project will demonstrate the following skills:
 
 7.Staging, commiting and pushing current progress to GitHub.
 
-You can see this project live at :
+You can see this project live at :  https://erikbahena.github.io/JavaScript-Documentation-Page/
 
 Although simple, I enjoyed creating this website a lot. It's my first website which inclued two types of navigation bars.
 
